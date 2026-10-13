@@ -1,0 +1,12 @@
+openai
+SpeechRecognition
+pyttsx3
+pyautogui
+playwright
+PyQt5
+keyboard
+mouse
+python-dotenv
+pyaudio
+python-pptx
+python-docx

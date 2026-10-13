@@ -1,0 +1,281 @@
+{
+    "history": [
+        {
+            "command": "open chrome",
+            "action": "open_application",
+            "status": "Success"
+        },
+        {
+            "command": "open the chrome and search for bjt blocks",
+            "action": "open_application",
+            "status": "Success"
+        },
+        {
+            "command": "take a screenshot of this",
+            "action": "take_screenshot",
+            "status": "Failed"
+        },
+        {
+            "command": "close close close close close close",
+            "action": "close_application",
+            "status": "Success"
+        },
+        {
+            "command": "open youtube and search for vj sidhu vlogs",
+            "action": "search_web",
+            "status": "Success"
+        },
+        {
+            "command": "open youtube channel mrbeast",
+            "action": "search_web",
+            "status": "Failed"
+        },
+        {
+            "command": "search youtube",
+            "action": "search_web",
+            "status": "Success"
+        },
+        {
+            "command": "open chrome",
+            "action": "open_application",
+            "status": "Success"
+        },
+        {
+            "command": "close close",
+            "action": "close_application",
+            "status": "Success"
+        },
+        {
+            "command": "open folder download",
+            "action": "search_system",
+            "status": "Success"
+        },
+        {
+            "command": "open folder",
+            "action": "search_system",
+            "status": "Success"
+        },
+        {
+            "command": "close close",
+            "action": "close_application",
+            "status": "Success"
+        },
+        {
+            "command": "open evs folder",
+            "action": "search_system",
+            "status": "Not Found"
+        },
+        {
+            "command": "open chrome",
+            "action": "open_application",
+            "status": "Success"
+        },
+        {
+            "command": "open evs folder",
+            "action": "search_system",
+            "status": "Success"
+        },
+        {
+            "command": "open bda folder",
+            "action": "search_system",
+            "status": "Success"
+        },
+        {
+            "command": "open BDA  folder",
+            "action": "search_system",
+            "status": "Success"
+        },
+        {
+            "command": "close",
+            "action": "close_application",
+            "status": "Success"
+        },
+        {
+            "command": "open wallpaper folder",
+            "action": "search_system",
+            "status": "Success"
+        },
+        {
+            "command": "open basics file",
+            "action": "search_system",
+            "status": "Success"
+        },
+        {
+            "command": "search for Mr.beast youtube channel",
+            "action": "search_web",
+            "status": "Success"
+        },
+        {
+            "command": "\"Create a folder named MyProject on my Desktop",
+            "action": "create_folder",
+            "status": "Success"
+        },
+        {
+            "command": "Create a file called test.txt in Downloads",
+            "action": "create_file",
+            "status": "Success"
+        },
+        {
+            "command": "open downloads",
+            "action": "search_system",
+            "status": "Success"
+        },
+        {
+            "command": "\"Generate a document about Artificial Intelligence in Healthcare based on \"C:\\Users\\rampr\\Pictures\\SEMESTER\\SEM-VIII\\PROJECT\\review 2.docx\"\"",
+            "action": "generate_document",
+            "status": "Error: cannot access local variable 'os' where it is not associated with a value"
+        },
+        {
+            "command": "\"Generate a document about Artificial Intelligence in Healthcare based on \"C:\\Users\\rampr\\Pictures\\SEMESTER\\SEM-VIII\\PROJECT\\review 2.docx\"\"",
+            "action": "generate_document",
+            "status": "Error: cannot access local variable 'os' where it is not associated with a value"
+        },
+        {
+            "command": "\"Generate a document about Artificial Intelligence in Healthcare based on C:\\Users\\rampr\\Pictures\\SEMESTER\\SEM-VIII\\PROJECT\\review 2.docx\"",
+            "action": "generate_document",
+            "status": "Failed"
+        },
+        {
+            "command": "\"Generate a document about Artificial Intelligence in Healthcare based on C:\\Users\\rampr\\Pictures\\SEMESTER\\SEM-VIII\\PROJECT\\review 2.docx\"",
+            "action": "generate_document",
+            "status": "Failed"
+        },
+        {
+            "command": "open chrome and search for vjsiddhu vlogs in youtube",
+            "action": "open_application",
+            "status": "Success"
+        },
+        {
+            "command": "search for vj siddhu vlogs in youtube",
+            "action": "search_web",
+            "status": "Success"
+        },
+        {
+            "command": "play any vj siddhu vlogs in youtube",
+            "action": "search_web",
+            "status": "Failed"
+        },
+        {
+            "command": "search for mr beast youtube channel",
+            "action": "search_web",
+            "status": "Success"
+        },
+        {
+            "command": "Make a file called report.docx on Desktop",
+            "action": "create_file",
+            "status": "Success"
+        },
+        {
+            "command": "Create a file named todo.txt in Downloads",
+            "action": "create_file",
+            "status": "Success"
+        },
+        {
+            "command": "open file explorer",
+            "action": "search_system",
+            "status": "Success"
+        },
+        {
+            "command": "open chrome",
+            "action": "open_application",
+            "status": "Success"
+        },
+        {
+            "command": "search vj siddhu vlogs youtube channel",
+            "action": "search_web",
+            "status": "Success"
+        },
+        {
+            "command": "make a file called ram.docx on desktop",
+            "action": "create_file",
+            "status": "Success"
+        },
+        {
+            "command": "create a file named hello.txt in downloads",
+            "action": "create_file",
+            "status": "Success"
+        },
+        {
+            "command": "open downloads",
+            "action": "search_system",
+            "status": "Success"
+        },
+        {
+            "command": "close",
+            "action": "close_application",
+            "status": "Success"
+        },
+        {
+            "command": "Generate a Word document \u2014 e.g., \"Generate a document about AI in Healthcare based on my template.docx\" \u2014 calls \n\nhee_doc.py\n as a subprocess",
+            "action": "generate_document",
+            "status": "Failed - No Template"
+        },
+        {
+            "command": "open chrome",
+            "action": "open_application",
+            "status": "Success"
+        },
+        {
+            "command": "close the active window",
+            "action": "close_application",
+            "status": "Success"
+        },
+        {
+            "command": "make a PPT about Climate Change with 7 slides",
+            "action": "create_ppt",
+            "status": "Error: cannot access local variable 'os' where it is not associated with a value"
+        },
+        {
+            "command": "make a PPT about Climate Change with 7 slides",
+            "action": "create_ppt",
+            "status": "Error: cannot access local variable 'os' where it is not associated with a value"
+        },
+        {
+            "command": "make a PPT about Climate Change in Downloads",
+            "action": "create_ppt",
+            "status": "Error: cannot access local variable 'os' where it is not associated with a value"
+        },
+        {
+            "command": "open the chrome and search for brocode youtube channel",
+            "action": "open_application",
+            "status": "Success"
+        },
+        {
+            "command": "close the chrome",
+            "action": "close_application",
+            "status": "Success"
+        },
+        {
+            "command": "open the chrome",
+            "action": "open_application",
+            "status": "Success"
+        },
+        {
+            "command": "close the chrome",
+            "action": "close_application",
+            "status": "Success"
+        },
+        {
+            "command": "open the file explorer",
+            "action": "search_system",
+            "status": "Not Found"
+        },
+        {
+            "command": "open the chrome and search for vj sidhu youtube channel",
+            "action": "open_application",
+            "status": "Success"
+        },
+        {
+            "command": "close the chrome",
+            "action": "close_application",
+            "status": "Success"
+        },
+        {
+            "command": "close",
+            "action": "close_application",
+            "status": "Success"
+        }
+    ],
+    "preferences": {},
+    "open_apps": []
+}
